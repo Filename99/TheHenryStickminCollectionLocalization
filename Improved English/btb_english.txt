@@ -1,0 +1,11 @@
+howloseone=Hehh? How did we lose one?
+throwinback=I think we should throw it in the back...
+justbesafe=...just to be safe?
+youever=You ever...
+wonderwhy=...wonder why there's a bank out here?
+well=Well...
+moreofavault=I think it's supposed to be like more of a vault, you know.
+thatmakessense=Oooh, that makes sense.
+alarm=[Alarm sounds]
+freeze=[Outside] Freeze!
+dontmove=[Outside] Don't move!
